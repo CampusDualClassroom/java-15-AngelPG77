@@ -10,6 +10,7 @@ public class Exercise15 {
 		fm.printSpecificData();
 		System.out.println(fm.getLocation());
 
+		fm.printSpecificData();
 	}
 
 }
